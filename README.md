@@ -63,7 +63,7 @@ If you wish to add a code sample:
     - `win81-x64`
     - `ubuntu.16.04-x64`
 
-We will have a CI system in place to build these projects shortly.
+We will have a CI system in place to build these projects immideatly.
 
 To create a sample:
 
